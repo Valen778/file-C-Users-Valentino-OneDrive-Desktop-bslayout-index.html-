@@ -1,0 +1,58 @@
+#peta {
+	position: relative;
+	padding-bottom: 50%;
+}
+
+#peta iframe {
+	height: 100%;
+	width: 100%;
+	left: 0;
+	top: 0;
+	position: absolute;
+}
+
+.carousel-item img {
+	width: 250px;
+}
+
+.carousel-item {
+	text-align: center;
+	
+}
+
+.card {
+	text-align: center;
+}
+
+.navbar-brand{
+	padding-right: 95px;
+}
+
+.navbar-brand img{
+
+	padding: 0 20px;
+	float: left;
+
+}
+
+.navbar-brand h3{
+	padding-top: 12px;
+}
+
+@media (max-width: 578px) {
+	.card {
+		width: 100%;
+	}
+}
+
+.bi bi substack {
+	padding-right: 10px;
+	vertical-align: top;
+}
+
+.judul {
+	text-decoration: none;
+	font-weight: bold;
+	color: darkseagreen;
+	padding: 5px 10px;
+}
